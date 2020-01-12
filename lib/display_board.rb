@@ -1,4 +1,4 @@
-board = ["O", "O", "X", "O", "O", "X", "O", "O", "X"]
+board = ["O", "", "X", "", "O", "X", "", "O", "X"]
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
   puts "-----------"
